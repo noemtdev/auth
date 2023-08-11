@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: noms-auth
+Version: 1.0
+Summary: A package that allows you to import a module to backup your members!
+Author: asov
+Author-email: asov <noemtdev@gmail.com>
+Project-URL: Homepage, https://github.com/noemtdev/auth
+Project-URL: Bug Tracker, https://github.com/noemtdev/auth/issues
+Keywords: python,discord,backup,members
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+the webserver starts running as soon as you initialze it 
+<br>
+run Auth.setup() first if you want to use default paths
+<br>
+the last 2 arguments are not required and they will be set to the default paths from setup()
+<br>
+The bot has to be in **py-cord**
