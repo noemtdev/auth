@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0'
+VERSION = '1.1'
 DESCRIPTION = 'A package that allows you to import a module to backup your members!'
 
 # Setting up

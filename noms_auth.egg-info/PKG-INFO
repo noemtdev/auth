@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: noms-auth
-Version: 1.0
+Version: 1.1
 Summary: A package that allows you to import a module to backup your members!
 Author: asov
 Author-email: asov <noemtdev@gmail.com>
@@ -13,10 +13,17 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 
-the webserver starts running as soon as you initialze it 
+the webserver starts running as soon as you initialize it 
 <br>
 run Auth.setup() first if you want to use default paths
 <br>
 the last 2 arguments are not required and they will be set to the default paths from setup()
 <br>
 The bot has to be in **py-cord**
+<br>
+Usage: 
+<br>
+```py
+from noms.auth import setup, Auth
+setup() # do this once only
+```
