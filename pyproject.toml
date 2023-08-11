@@ -19,5 +19,5 @@ classifiers = [
 keywords=['python', 'discord', 'backup', 'members']
 
 [project.urls]
-"Homepage" = "https://github.com/noemtdev/auth-package"
-"Bug Tracker" = "https://github.com/noemtdev/auth-package/issues"
+"Homepage" = "https://github.com/noemtdev/auth"
+"Bug Tracker" = "https://github.com/noemtdev/auth/issues"
